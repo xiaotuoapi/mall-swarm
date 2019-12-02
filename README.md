@@ -131,6 +131,8 @@ mall项目全套学习教程连载中，**关注公众号**第一时间获取。
 
 ![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
 
+https://juejin.im/post/5de3c1a35188256e855b6e54?utm_source=gold_browser_extension
+
 ## 许可证
 
 [Apache License 2.0](https://github.com/macrozheng/mall-swarm/blob/master/LICENSE)
